@@ -1,0 +1,5 @@
+apiVersion: v2
+name: spring-boot-maven
+description: Helm char for child chart
+version: 0.0.1
+type: application
